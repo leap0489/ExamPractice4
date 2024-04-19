@@ -1,1 +1,14 @@
 [19-Apr-2024 15:37:29 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 135
+[19-Apr-2024 15:38:16 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 135
+[19-Apr-2024 15:38:20 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 135
+[19-Apr-2024 15:39:49 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 135
+[19-Apr-2024 15:39:51 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 135
+[19-Apr-2024 15:39:53 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 135
+[19-Apr-2024 15:40:12 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 135
+[19-Apr-2024 15:40:14 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 135
+[19-Apr-2024 15:40:23 UTC] PHP Deprecated:  Function get_currentuserinfo is deprecated since version 4.5.0! Use wp_get_current_user() instead. in /wordpress/wp-includes/functions.php on line 135
+[19-Apr-2024 15:40:23 UTC] PHP Warning:  Undefined variable $parent_theme_name in /wordpress/wp-content/plugins/one-click-child-theme-main/templates/create_child_form.php on line 18
+[19-Apr-2024 15:40:25 UTC] PHP Deprecated:  Function get_current_theme is deprecated since version 3.4.0! Use wp_get_theme() instead. in /wordpress/wp-includes/functions.php on line 135
+[19-Apr-2024 15:40:26 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 135
+[19-Apr-2024 15:44:08 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 135
+[19-Apr-2024 15:47:17 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 135

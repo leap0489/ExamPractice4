@@ -1,0 +1,43 @@
+/*
+Theme Name:     Child
+Description:    
+Author:         admin
+Template:       twentytwentythree
+
+(optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
+*/
+
+:root {
+	--main-brand: #568250;
+	--background: #F1F6F0;
+	--button: #ABD5A4;
+	--text: #1E2F1C;
+}
+
+h1 {
+	display: none;
+}
+
+h2 {
+	color: var(--main-brand); 
+	font-family: "Oswald", serif;
+}
+
+p {
+	color: var(--text);
+}
+
+body {
+	background-color: var(--background);
+}
+
+li {
+	color: var(--main-brand);
+}
+
+.btn {
+	background-color: var(--button);
+	padding: 16px 48px;
+	border-radius: 200px;
+	margin:8px;
+}
